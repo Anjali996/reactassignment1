@@ -1,0 +1,123 @@
+
+
+.container{
+    position: fixed;
+    height: 74vh;
+    width: 1000px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:rgba(255,205,158,1);
+    border: 2px solid skyblue;
+    }
+
+.header{
+    height: 50.6vh;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    display: flex;
+   
+    text-align: left;
+    }
+
+.left-header{
+    height:100% ;
+    width: 65%;
+    
+    padding: 30px;
+}
+
+.right-header{
+    height:100% ;
+    width: 35%;
+    padding: 30px;
+    
+}
+  #a1{
+    font-family: Inter;
+font-size: 36px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+  }          
+        
+#a2{
+    font-family: Inter;
+font-size: 15px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+#a3{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+#vector{
+    height:300px;
+     width:300px;
+     
+    
+}
+
+#a8{
+    position: absolute;
+    height: 64px;
+width: 344px;
+left: 30px;
+
+
+    height: 49px;
+    width:220px;
+    border: 3px solid black;
+   }
+
+   #a9{
+    position: absolute;
+    
+    text-align: center;
+            
+    height: 56px;
+    width:216px;
+    left: 270px;
+    border-radius: 8px;
+    background-color: black;
+    color:white;
+   }
+
+   
+    #a11{
+        position: absolute;
+        top: 340px;
+        color: white;
+        font-family: Inter;
+font-size: 13px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+
+    }
+    
+      
+    
+#a4{
+    font-family: Inter;
+font-size: 42px;
+font-weight: 700;
+line-height: 62px;
+letter-spacing: 0em;
+text-align: left;
+
+}
